@@ -1,0 +1,7 @@
+name = "backend"
+main = "src/index.ts"
+compatibility_date = "2024-11-23"
+
+[vars]
+DATABASE_URL="prisma://accelerate.prisma-data.net/?api_key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlfa2V5IjoiMzYzNjYzNTktY2UwNC00YzhhLWIxOWEtODE0MjNiMmRkZTEzIiwidGVuYW50X2lkIjoiM2JmZmY0OTNhNzk2NTQ4ZWZiNjA1NDJmNjQzNDRiNTczMzY4ZTliYmZlYzgyMTAwZTI1NmM1NWEwMWI0NWQ1ZCIsImludGVybmFsX3NlY3JldCI6IjhlMWU2NzAxLTg0MzktNDIwNS1hYTYwLWRlNmRkNzg1MGIxMyJ9.o-FrjL8LiiARWWuRgI7k8srtop1ShQRF6I0y3OizXgg"
+JWT_SECRET = "gautamsidhanth"
